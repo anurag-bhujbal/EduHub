@@ -1,5 +1,5 @@
 # EduHub Website
-
+# Website url: https://edutech123.netlify.app/
 Welcome to EduHub, your gateway to knowledge and skill development. This repository contains the source code for the EduHub website, where we are dedicated to providing high-quality, accessible education for learners of all ages and backgrounds.
 
 ## Features
