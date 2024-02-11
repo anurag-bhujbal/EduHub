@@ -23,4 +23,4 @@ Welcome to EduHub, your gateway to knowledge and skill development. This reposit
 1. Clone the repository: `git clone https://github.com/your-username/Thapa-EduHub.git`
 2. Open the `index.html` file in your web browser.
 
-Feel free to explore, contribute, and enhance the Thapa EduHub website. Happy learning!
+Feel free to explore, contribute, and enhance the EduHub website.
